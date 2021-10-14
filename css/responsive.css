@@ -291,7 +291,7 @@ nav button i {
        margin: 45px 0px 4px 0;
    }
    #Courses-part .item .duration p{
-       font-size: 14px; 
+       font-size: 12px; 
    }
        #Courses-part .item .duration h4{
        font-size: 14px;
@@ -440,7 +440,7 @@ nav button i {
       padding-left: 0px;
 } 
   #events-part .row .img .btn a p {
-   width: 55px;
+   width: 60px;
 	height: 25px;
 	margin-top: 15px;
 	font-size: 11px;
@@ -491,7 +491,7 @@ nav button i {
   margin-top: -35px;
 }     
 #events-part .row .img2 .btn a p {
-	width: 55px;
+	width: 60px;
 	height: 25px;
 	margin-top: 45px;
 	font-size: 11px;
