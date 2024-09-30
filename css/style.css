@@ -1032,7 +1032,7 @@ nav .button a:hover {
     transform: translateY(30%);
     text-align: center;
     z-index: 1;
-    top: 30%;
+    top: 25%;
     left: -10px;
     transition: .4s;
 }
