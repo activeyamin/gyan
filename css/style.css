@@ -29,7 +29,7 @@ html,body{
 =======================================*/
 header {
     width: 100%;
-    padding: 5px 0;
+    padding: 2px 0;
     background: #27440f;
     z-index: 9999;
     position: absolute;
