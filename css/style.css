@@ -622,6 +622,7 @@ nav .button a:hover {
     transform: translateX(50%);
     display: inline-block;
     margin-top: 12px;
+    padding: 5px 10px;
 }
 #Courses-part .slick-dots li button {
     font-size: 0;
